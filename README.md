@@ -1,1 +1,1 @@
-# SwiftByExample
+# Basics of Coding Swift
